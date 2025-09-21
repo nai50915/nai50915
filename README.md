@@ -7,7 +7,7 @@
 ---
 
 ### 📝 About Me
-- 🎓 CS student specializing in Data Science at the University of Georgia
+- 🎓 CS student specializing in Data Science at the University of Georgia (Go Dawgs!)
 - 🚀 Enjoy building apps that combine logic and creativity  
 - 💡 Skilled in **data structures**, **object-oriented programming**, **system design**, **user experience research**, **prototyping**, and **frontend & backend integration**
 
