@@ -1,15 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Nadia</h1>
+<h1 align="center">Nice to meet you 👋, I'm Nadia</h1>
 
 <p align="center">
-💻 Computer Science student passionate about <b>creative software</b>, <b>procedural generation</b>, and <b>distributed systems</b>.
+💻 Computer Science student passionate about <b>creative software</b> and <b>frontend and backend design</b>
 </p>
 
 ---
 
 ### 📝 About Me
-- 🎓 CS student at the University of Georgia  
-- 🚀 Love building apps that combine logic + creativity  
-- 🌱 Currently learning advanced **procedural terrain generation** & **consistent hashing in distributed systems**  
+- 🎓 CS student specializing in Data Science at the University of Georgia
+- 🚀 Enjoy building apps that combine logic and creativity  
+- 💡 Skilled in **data structures**, **object-oriented programming**, **system design**, **user experience research**, **prototyping**, and **frontend & backend integration**
 
 ---
 
@@ -23,10 +23,6 @@
 ---
 
 ### 🌐 Connect with Me
-- 📫 [LinkedIn](https://linkedin.com/in/yourname)  
+- 📫 [LinkedIn](https://linkedin.com/in/nadia-i/)  
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nai50915&show_icons=true&theme=tokyonight" alt="Nadia's GitHub stats">
-</p>
