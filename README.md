@@ -9,7 +9,9 @@
 ### 📝 About Me
 - 🎓 CS student specializing in Data Science at the University of Georgia (Go Dawgs!)
 - 🚀 Enjoy building apps that combine logic and creativity  
-- 💡 Skilled in **data structures**, **object-oriented programming**, **system design**, **user experience research**, **prototyping**, and **frontend & backend integration**
+- 🌱 Skilled in **data structures**, **object-oriented programming**, **system design**, **user experience research**, **prototyping**, and **frontend & backend integration**
+- 👥 Currently the **Vice President of Women in Cybersecurity (WiCyS)** where I coordinate events to foster community engagement for students in cybersecurity
+- 🌸 Outside of coding, I love cafe-hopping, journaling, and reading! 
 
 ---
 
