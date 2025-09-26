@@ -21,6 +21,7 @@
 |---------|-------------|
 | [**Roommate Review & Matching System**](https://github.com/nai50915/roommate-matching) | Spring Boot web app that helps students review and match with roommates based on reviews, votes, and shared history |
 | [**Minecraft Terrain Generator**](https://github.com/nai50915/minecraft-terrain-generator) | Procedural terrain generator with seasonal biomes, day-night cycle, and interactive movement built with Three.js |
+| [**Email Sender**](https://github.com/nai50915/email-sender) | Python automation script using Outlook + Excel to send personalized or follow-up emails with CC handling |
 
 ---
 
