@@ -1,4 +1,4 @@
-<h1 align="center">Nice to meet you 👋, I'm Nadia</h1>
+<h1 align="center">Nice to meet you 😊, I'm Nadia</h1>
 
 <p align="center">
 💻 Computer Science student passionate about <b>creative software</b> and <b>frontend and backend design</b>
